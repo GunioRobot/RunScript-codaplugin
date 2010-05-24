@@ -10,11 +10,6 @@ Created by Joseph Bergantine, jbergantine@gmail.com
 
 Released under a [Creative-Commons Attribution Non-Commercial Share-Alike 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/us/).
 
-Installation via Git
---------------------
-
-In a terminal window execute the following command: <kbd>git clone git@github.com:jbergantine/Run-Script.git ~/Library/Application\ Support/Coda/Plug-ins/RunScript.codaplugin</kbd>
-
 Installation via Download
 -------------------------
 
