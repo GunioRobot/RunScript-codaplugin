@@ -6,12 +6,12 @@ A Panic Coda Plugin to Execute a Python, Ruby, Perl or PHP Script from the Edito
 Licensing
 ---------
 
-Created by Joseph Bergantine, jbergantine@gmail.com
+Created by Joseph Bergantine, [jbergantine@gmail.com](mailto:jbergantine@gmail.com)
 
 Released under a [Creative-Commons Attribution Non-Commercial Share-Alike 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/us/).
 
-Installation via Download
--------------------------
+Installation
+------------
 
 After unpacking or unzipping the packaged file, double click the RunScript.codaplugin or drag the file onto the Panic Coda dock icon.
 
