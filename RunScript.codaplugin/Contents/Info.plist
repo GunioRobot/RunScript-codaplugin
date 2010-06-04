@@ -40,7 +40,7 @@
 			<key>preprocess</key>
 			<string>save</string>
 			<key>script</key>
-			<string>run</string>
+			<string>run.sh</string>
 			<key>setInsertionPoint</key>
 			<false/>
 			<key>uuid</key>
