@@ -6,9 +6,7 @@ A Panic Coda Plugin to Execute a Bash, Perl, PHP, Python or Ruby Script from the
 Licensing
 ---------
 
-Created by Joseph Bergantine, [jbergantine@gmail.com](mailto:jbergantine@gmail.com)
-
-Released under a [Creative-Commons Attribution Non-Commercial Share-Alike 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/us/).
+The Run Script Plugin for Panic Coda by [Joseph Bergantine](http://joebergantine.com/) is released under a [Creative-Commons Attribution Non-Commercial Share-Alike 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/us/).
 
 Installation
 ------------
