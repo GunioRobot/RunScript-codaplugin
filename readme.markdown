@@ -1,7 +1,7 @@
 Run Script
 ==========
 
-A Panic Coda Plugin to Execute a Bash, Perl, PHP, Python or Ruby Script from the Editor Window. Sends STDOUT and STDERR messages to a new editor window.
+A Panic Coda Plugin to Execute a Bash, Perl, PHP, Python or Ruby Script from the Editor Window. Sends STDOUT and STDERR messages to a new HTML document window.
 
 Licensing
 ---------

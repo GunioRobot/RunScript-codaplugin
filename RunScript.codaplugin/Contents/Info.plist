@@ -36,9 +36,9 @@
 			<key>name</key>
 			<string>Run Script</string>
 			<key>output</key>
-			<string>newDocument</string>
+			<string>showAsHTML</string>
 			<key>preprocess</key>
-			<string>save</string>
+			<string>none</string>
 			<key>script</key>
 			<string>run.sh</string>
 			<key>setInsertionPoint</key>

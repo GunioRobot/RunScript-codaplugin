@@ -23,5 +23,5 @@ if [ -n "$MODE" ]; then
 	# extra redirection and piping to force coda to display stderr
 	$MODE "$CODA_FILEPATH" 2>&1 | tee /dev/null
 else
-	echo "Unkown filetype. File extension must be .bash, .php, .pl, .py, .rb or .sh."
+	echo "Unknown filetype or file has not been saved. File extension must be .bash, .php, .pl, .py, .rb or .sh."
 fi
