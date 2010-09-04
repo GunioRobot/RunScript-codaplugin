@@ -32,7 +32,7 @@
 			<key>keyEquivalent</key>
 			<string>~@r</string>
 			<key>keyEquivalentConflict</key>
-			<true/>
+			<false/>
 			<key>name</key>
 			<string>Run Script</string>
 			<key>output</key>
