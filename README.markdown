@@ -3,11 +3,6 @@ Run Script
 
 A Panic Coda Plugin to Execute a Bash, Perl, PHP, Python or Ruby Script from the Editor Window. Sends STDOUT and STDERR messages to a new HTML document window.
 
-Licensing
----------
-
-The Run Script Plugin for Panic Coda by [Joseph Bergantine](http://joebergantine.com/) is released under a [Creative-Commons Attribution Non-Commercial Share-Alike 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/us/).
-
 Installation
 ------------
 
